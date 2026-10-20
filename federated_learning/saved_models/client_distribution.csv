@@ -1,0 +1,6 @@
+Client,Images,Patients,Pneumonia,Atelectasis,Cardiomegaly,Effusion,Nodule,Infiltration
+Client 1,965,611,126,239,165,298,163,335
+Client 2,900,610,136,225,153,250,167,335
+Client 3,947,610,142,252,127,310,176,308
+Client 4,962,610,145,232,195,264,150,303
+Client 5,947,610,148,227,142,296,181,325

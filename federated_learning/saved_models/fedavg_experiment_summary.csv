@@ -1,0 +1,15 @@
+Metric,Value
+Dataset,NIH ChestX-ray14
+Images,6797
+Patients,4359
+Target Diseases,"Pneumonia, Atelectasis, Cardiomegaly, Effusion, Nodule, Infiltration"
+Clients,5
+Federated Rounds,10
+Model,ResNet18
+Aggregation,FedAvg
+Best Round,4
+Best Validation Loss,0.4753493053071639
+Test Macro F1,0.2732894137617254
+Test Macro Precision,0.4944948197179242
+Test Macro Recall,0.19636754152397298
+Test Macro ROC-AUC,0.7032491437530629
